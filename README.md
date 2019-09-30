@@ -1,6 +1,6 @@
 # FireCrew3
 
-Thank you for downloading FireCrew3. The best available Freeware CrewCenter on Earth.
+Thank you for downloading FireCrew3.
 Hope to have you onboard soon!  
 
 # Installation:
@@ -26,4 +26,5 @@ Config::Set('BID_EXPIRE_TIME', '48');
 # Contact
 If you have any comments, queries or suggestions, please feel free to email me at hiparthparth@gmail.com
 
-© Parth Parth 2018. hiparthparth@gmail.com
+© Parth Parth 2019. hiparthparth@gmail.com
+# This project is no longer being actively maintained. Please email me if you enounter any security vulnerabilities.
