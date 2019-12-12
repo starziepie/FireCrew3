@@ -2,8 +2,8 @@
                     <ul>
 
                         <li>
-                            <a href="http://www.myselfparth.gq/">
-                                &copy; Parth Parth <script>document.write(new Date().getFullYear())</script>
+                            <a href="https://community.infiniteflight.com/u/starz/">
+                                Crew Center Made with <i class="fa fa-heart" style="color:red;"></i> by Starz
                             </a>
                         </li>
                     </ul>
@@ -13,7 +13,7 @@
 
                         <li>
                             <a href="http://www.myselfparth.gq/">
-                                Made with <i class="fa fa-heart" style="color:red;"></i> by Parth Parth
+                                Skin Made with <i class="fa fa-heart" style="color:red;"></i> by Parth Parth
                             </a>
                         </li>
                     </ul>
