@@ -27,7 +27,7 @@
                 	<div class="row">
                     	<div class="col-md-8 col-md-offset-2">
                         	<div class="header-text">
-                            	<h2>FireCrew Virtual</h2>
+                            	<h2>VA NAME HERE</h2>
                             	<h4>Register now and get ready for takeoff</h4>
                             	<hr>
                         	</div>
