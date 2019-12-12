@@ -2,7 +2,7 @@
     <div class="sidebar-wrapper" id="nonav">
             <div class="logo">
                 <a href="#" class="simple-text">
-                    FIRE CREW v3
+                    YOUR_VA_NAME_HERE
                 </a>
             </div>
 
