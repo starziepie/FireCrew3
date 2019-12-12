@@ -2,7 +2,7 @@
     <div class="sidebar-wrapper" id="nonav">
             <div class="logo">
                 <a href="#" class="simple-text">
-                    YOUR_VA_NAME_HERE
+                    <?php echo SITE_NAME ?>
                 </a>
             </div>
 
