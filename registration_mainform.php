@@ -40,8 +40,8 @@
                                 	</div>
                             	</div>-->
                             	<div class="media-body">
-                                	<h5>Up to date schedules</h5>
-                                	We frequently update our schedules to match the real world airline so you don't miss out on any of the realism!
+                                	<h5>Quality #1</h5>
+                                	Write 1 thing unique to your VA/VO here.
                             	</div>
                         	</div>
                         	<div class="media"><!--
@@ -51,8 +51,8 @@
                                 	</div>
                             	</div>-->
                             	<div class="media-body">
-                                	<h5>Flight Tracking</h5>
-                                	Our ACARS system will keep the minute details recorded just like our real world counterpart!
+                                	<h5>Quality #2</h5>
+                                	Write 1 thing unique to your VA/VO here.
                             	</div>
                         	</div>
                         	<div class="media"><!--
@@ -62,8 +62,8 @@
                                 	</div>-->
                             	</div>
                             	<div class="media-body">
-                                	<h5>Flight Academy</h5>
-                                	Even if you just begun virtual flying, our comprehensive syllabus and amicable flight instructors will help you fly like a professional real world pilot!
+                                	<h5>Requirements</h5>
+                                	Write your requirements here
                             	</div>
                         	</div>
                     	<div class="col-md-4">
