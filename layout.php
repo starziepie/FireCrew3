@@ -5,7 +5,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-		<title><?php echo SITE_NAME; ?> FireCrew</title>
+		<title><?php echo SITE_NAME; ?> Crew Center</title>
 		<?php echo $page_htmlhead; ?>
 		<!-- Bootstrap core CSS     -->
     	<link href="<?php echo SITE_URL ?>/lib/skins/FireCrew3/assets/css/bootstrap.min.css" rel="stylesheet" />
